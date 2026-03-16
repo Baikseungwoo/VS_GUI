@@ -1,2 +1,1 @@
-Git Exam Practice
-깃헙에서 수정함.
+ #My Git GUI Test
